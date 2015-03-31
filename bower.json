@@ -1,0 +1,16 @@
+{
+  "name": "trackjs-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/gish/trackjs-test",
+  "authors": [
+    "Erik Hedberg <erik.hedberg@klarna.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
